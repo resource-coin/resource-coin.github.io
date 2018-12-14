@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lang>
+	<headDescription>लक्ष्यों को प्राप्त करने के लिए आपको संसाधनों की आवश्यकता है</headDescription>
+	<topTitle>व्यापक रूप से उपलब्ध Resource के 50% के विनाश के बाद अपने संसाधन टोकन का मूल्य दोहराएं</topTitle>
+	<topText>एक संसाधन स्मार्ट अनुबंध Resource का एक टोकन है जिसे आप एथेरियम के बदले में खरीद सकते हैं। 1 संसाधन = 0.001 ETH हम आम तौर पर उपलब्ध संसाधनों में से आधे को नष्ट कर देंगे ताकि आपके द्वारा खरीदे गए टोकन का मूल्य पहले युगल हो</topText>
+	<topLink>संसाधनों के बारे में और जानें</topLink>
+	<topCountdownName>संसाधनों का उपयोग</topCountdownName>
+	<topCountdown><div class="cd_bl days"><div class="num">{dnn}</div><div class="text">दिनों </div></div><div class="cd_bl hour"><div class="num">{hnn}</div><div class="text">घंटे </div></div><div class="cd_bl min"><div class="num">{mnn}</div><div class="text">मिनट</div></div><div class="cd_bl sec"><div class="num">{snn}</div><div class="text">सेकेंड में शुरू होगा</div></div></topCountdown>
+	<topTrigger1>आप किसी भी समय स्टोरेज के लिए एथेरियम, देने, विनिमय करने और स्थानांतरित करने के लिए संसाधन खरीद सकते हैं</topTrigger1>
+	<topTrigger2>हमने 8,551,000,000 संसाधन प्राप्त किए हैं। नए संसाधनों के मुद्दे की उम्मीद नहीं है</topTrigger2>
+	<topTrigger3>आपके टोकन सुरक्षित होंगे। स्मार्ट अनुबंध डेवलपर्स द्वारा नष्ट नहीं किए जा सकते है</topTrigger3>
+	<newResourceTitle>हमने पूरी तरह से नए संसाधनों की प्राप्ति को बंद कर दिया है</newResourceTitle>
+	<infoTitle>आपके अवसरों के विपरीत संसाधन हमेशा सीमित रहते हैं</infoTitle>
+	<infoArt1Name>संसाधन क्या हैं?</infoArt1Name>
+	<infoArt1Text>
+		<p>स्मार्ट अनुबंध Resource के 1 संसाधन = 1 टोकन</p>
+		<p>Resource का मुख्य विचार ठेठ Resource के साथ टोकन की समानता है: पानी, तेल, गैस, और मुद्रा।</p>
+        <p>संसाधनों की मात्रा हमेशा सीमित है। संसाधनों का मूल्य बढ़ता है क्योंकि उनकी मात्रा कम हो जाती है</p>
+	</infoArt1Text>
+	<infoArt2Name>संसाधनों की मात्रा 8,551,000,000 क्यों है?</infoArt2Name>
+	<infoArt2Text>
+		<p>संसाधनों की मात्रा 2030 तक ग्रह पर लोगों की अनुमानित संख्या से मेल खाती है: 8,551,000,000।</p>
+        <p>नए संसाधनों के मुद्दे की उम्मीद नहीं है।</p>
+        <p>8,551,000,000 संसाधनों की अधिकतम संभव मात्रा है।</p>
+	</infoArt2Text>
+	<infoLink>संसाधन प्राप्त करें</infoLink>
+	<tradeTitle>अपने दोस्तों और परिवार के सदस्यों से संसाधन खरीदें, बेचें, विनिमय करें या स्थानांतरित करें</tradeTitle>
+	<tradeArt1Name>आम तौर पर उपलब्ध संसाधन खरीदें</tradeArt1Name>
+	<tradeArt1Text>
+		<p>Ethereum के लिए संसाधन खरीदें। 1 संसाधन = 0.001 ETH।</p>
+        <p>संसाधन खरीदने के लिए बस अपने वॉलेट में स्मार्ट अनुबंध संसाधन जोड़ें और Resource की मात्रा का चयन करें।</p>
+	</tradeArt1Text>
+	<tradeArt2Name>अपने संसाधनों को अनुकूल कीमत पर बेचें</tradeArt2Name>
+	<tradeArt2Text>
+		<p>संसाधनों की कीमत हमेशा उनके मूल्य के बराबर होती है और एक ही समय पर होती है।</p>
+        <p>आप अपनी खरीद के बाद संसाधनों को बेच सकते हैं या थोड़ा इंतजार कर सकते हैं और उन्हें उच्च कीमत पर बेच सकते हैं।</p>
+	</tradeArt2Text>
+	<tradeArt3Name>संसाधनों को अपने परिवार के सदस्यों को स्थानांतरित करें</tradeArt3Name>
+	<tradeArt3Text>
+		<p>आप अपने दोस्तों और परिवार के सदस्यों को अस्थायी रूप से स्थानांतरित या संसाधन दे सकते हैं।</p>
+	</tradeArt3Text>
+	<tradeArt4Name>अपने संसाधनों का आदान-प्रदान करें</tradeArt4Name>
+	<tradeArt4Text>
+		<p>अन्य टोकन के लिए अपने संसाधनों की किसी भी मात्रा का आदान-प्रदान करें।</p>
+	</tradeArt4Text>
+	<artArt1Title>इस दुनिया में सबकुछ संभव है; केवल एक प्रश्न के साथ: आपको कितने संसाधनों की आवश्यकता होगी</artArt1Title>
+	<artArt1Text>
+		<p>Resource का मूल्य स्मार्ट अनुबंध Resource में निर्दिष्ट है</p>
+        <p><strong>1 संसाधन = 1 फिननी * 8,551,000,000 / संसाधनों की कुल मात्रा</strong></p>	
+	</artArt1Text>
+	<artArt1List>
+		<li class="li1">आपके संसाधनों का मूल्य आम तौर पर उपलब्ध संसाधनों के उपयोग पर दोगुना हो जाएगा।</li>
+	</artArt1List>
+	<artArt2Title>हम आम तौर पर उपलब्ध संसाधनों के लिए 100% सुरक्षा प्रदान करते हैं</artArt2Title>
+	<artArt2List>
+		<li class="li2">आम तौर पर उपलब्ध संसाधनों का प्रबंधन स्मार्ट अनुबंध द्वारा नियंत्रित किया जाता है</li>
+        <li class="li3">आम तौर पर उपलब्ध संसाधनों के अधिकार किसी को भी स्थानांतरित नहीं किया जा सकते है</li>
+        <li class="li4">स्मार्ट अनुबंध नष्ट नहीं किया जा सकता है। Resource coin डेवलपर्स ने स्मार्ट अनुबंध की रक्षा की है और घुसपैठियों द्वारा विनाशकारी कोड का उपयोग करने की संभावना को समाप्त कर दिया है</li>
+	</artArt2List>
+	<artArt3Title>अपनी संपत्ति को सुरक्षित रूप से सुरक्षित रखें</artArt3Title>
+	<artArt3List>
+		<li class="li5">Ethereum की खरीद के लिए संपत्ति स्मार्ट अनुबंध द्वारा सुरक्षित रूप से संरक्षित हैं</li>
+        <li class="li6">आप पहले खरीदे गए संसाधनों की बिक्री के बाद ही Ethereum प्राप्त कर सकते हैं</li>
+	</artArt3List>
+	<calcTitle>अपने संसाधनों का मूल्य दोहराएं</calcTitle>
+	<calcList>
+		<li class="li1 wow fadeInRight" data-wow-delay='0.1s'>हम आपके लाभ को बढ़ाने के लिए संसाधनों का उपयोग करेंगे</li>
+        <li class="li2 wow fadeInRight" data-wow-delay='0.1s'>हम आपके संसाधनों के मूल्य को दोगुना करने के लिए संसाधनों का आधा हिस्सा नष्ट कर देंगे।</li>
+        <li class="li3 wow fadeInRight" data-wow-delay='0.1s'>हम केवल आम तौर पर उपलब्ध संसाधनों को समाप्त कर देंगे। आपके संसाधन बरकरार रहेगें।</li>
+	</calcList>
+	<calcTitle2>संसाधनों के विनाश से लाभ की गणना करें</calcTitle2>
+	<calcLabelRes>संसाधनों की प्रारंभिक मात्रा का चयन करें</calcLabelRes>
+	<calcTextRes>साधन</calcTextRes>
+	<calcLabelDay>उपयोग के बाद संसाधनों की बिक्री का दिन चुनें</calcLabelDay>
+	<calcTextDay>दिन का</calcTextDay>
+	<calcResultText>
+		<div class="name">आपके संसाधनों का मूल्य  <strong><span>50</span>%</strong> तक बढ़ेगा और</div>
+        <div class="sum">
+        	<div class="res"><span>750.000</span> </div>
+            <div class="eth">या <strong><span>750</span> ETH</strong></div>
+        </div>
+		<div class="name">की राशि होगी</div>
+	</calcResultText>
+	<calcLink>संसाधन प्राप्त करें</calcLink>
+	<grafTitle>आमतौर पर उपलब्ध संसाधनों के आधे के उपयोग से लाभ</grafTitle>
+	<grafSubtitle>संसाधनों का उपयोग 32 दिनों के भीतर किया जाएगा। हर दिन नष्ट संसाधनों की मात्रा दोगुना हो जाती है</grafSubtitle>
+	<grafLabel1>संसाधनों की मात्रा 32 दिनों में उपयोग की जाती है</grafLabel1>
+	<grafLabel2>10,000 संसाधनों का मूल्य</grafLabel2>
+	<grafLink>संसाधन प्राप्त करें</grafLink>
+	<workTitle>हम सब कुछ कर सकते हैं ताकि आप संसाधनों के उपयोग से लाभ कमा सकें</workTitle>
+	<workText1>
+		<p>हम संसाधनों को न्यूनतम कीमत पर खरीदते हैं</p>
+	</workText1>
+	<workHideText1>
+		<p>हम संसाधनों को न्यूनतम कीमत पर खरीदते हैं</p>
+	</workHideText1>
+	<workText2>
+		<p>हम संसाधनों का उपयोग करते हैं। संसाधनों का मूल्य 100% बढ़ेगा</p>
+	</workText2>
+	<workHideText2>
+		<p>हम संसाधनों का उपयोग करते हैं। संसाधनों का मूल्य 100% बढ़ेगा</p>
+	</workHideText2>
+	<workText3>
+		<p>हम क्रिप्टो स्टॉक एक्सचेंजों पर संसाधन डालते हैं और सहयोग में संभावित भागीदारों को शामिल करते हैं</p>
+	</workText3>
+	<workHideText3>
+		<p>हम क्रिप्टो स्टॉक एक्सचेंजों पर संसाधन डालते हैं और सहयोग में संभावित भागीदारों को शामिल करते हैं</p>
+	</workHideText3>
+	<workHideLink>और जानें</workHideLink>
+	<mapTitle>हम ब्लॉकचेन प्रौद्योगिकियों में सुधार करते हैं और विश्व के नेताओं के साथ सहयोग करते हैं</mapTitle>
+	<socTitle>हम Resource coin के विकास का पालन करते हैं</socTitle>
+	<socText1>सोशल मीडिया पर</socText1>
+	<socText2>सन्देशवाहक पर</socText2>
+	<socText3>ब्लॉग पर</socText3>
+	<socText4>मेल में</socText4>
+	<footerDescription>लक्ष्यों को प्राप्त करने के लिए आपको संसाधनों की आवश्यकता है</footerDescription>
+</lang>

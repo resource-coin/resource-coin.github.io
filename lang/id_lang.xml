@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lang>
+	<headDescription>Sumber daya adalah yang Anda butuhkan untuk mencapai tujuan Anda</headDescription>
+	<topTitle>Gandakan nilai token Resources Anda setelah penghancuran 50% sumber daya yang tersedia secara umum</topTitle>
+	<topText>Sumber daya adalah token dari Resources kontrak cerdas yang dapat Anda beli untuk mendapatkan <strong>Ethereum.</strong> 1 sumber daya = 0,001 ETH.  Kami akan menghancurkan setengah dari sumber daya yang tersedia secara umum sehingga nilai token yang Anda beli sebelumnya menjadi berlipat ganda</topText>
+	<topLink>Pelajari selengkapnya tentang sumber daya</topLink>
+	<topCountdownName><span>Pengelolaan sumber</span> daya akan dimulai dalam</topCountdownName>
+	<topCountdown><div class="cd_bl days"><div class="num">{dnn}</div><div class="text">hari</div></div><div class="cd_bl hour"><div class="num">{hnn}</div><div class="text">jam</div></div><div class="cd_bl min"><div class="num">{mnn}</div><div class="text">menit</div></div><div class="cd_bl sec"><div class="num">{snn}</div><div class="text">detik</div></div></topCountdown>
+	<topTrigger1>Anda dapat membeli sumber daya untuk mendapatkan Ethereum, memberikan, menukar, dan mentransfernya untuk disimpan kapan saja.</topTrigger1>
+	<topTrigger2>Kami telah mendapatkan sumber daya sebesar <strong>8.551.000.000.</strong> Kami tidak menginginkan adanya masalah pada sumber daya baru</topTrigger2>
+	<topTrigger3>Token Anda akan aman. Kontrak cerdas tidak dapat dihancurkan oleh pengembang.</topTrigger3>
+	<newResourceTitle>Kami telah menghentikan seluruhnya perolehan sumber daya baru</newResourceTitle>
+	<infoTitle>Sumber daya selalu terbatas, tidak seperti peluang Anda</infoTitle>
+	<infoArt1Name>Apa yang dimaksud dengan sumber daya?</infoArt1Name>
+	<infoArt1Text>
+		<p>1 sumber daya = 1 token Resources kontrak cerdas.</p>
+		<p>Ide utama Resources adalah kesamaan token dengan sumber daya secara umum: air, minyak, gas, dan mata uang.</p>
+        <p>Kuantitas sumber daya selalu terbatas. Nilai sumber daya tumbuh sejalan dengan penurunan kuantitasnya.</p>
+	</infoArt1Text>
+	<infoArt2Name>Mengapa kuantitas sumber daya adalah sebesar 8.551.000.000?</infoArt2Name>
+	<infoArt2Text>
+		<p>Kuantitas sumber daya sesuai dengan perkiraan jumlah penduduk bumi pada tahun 2030: 8.551.000.000.</p>
+        <p>Kami tidak menginginkan adanya masalah pada sumber daya baru.</p>
+        <p>Kemungkinan maksimal dari kuantitas sumber daya adalah 8.551.000.000.</p>
+	</infoArt2Text>
+	<infoLink>Dapatkan sumber daya</infoLink>
+	<tradeTitle>Beli, jual, tukar, atau transfer sumber daya kepada teman dan anggota keluarga Anda</tradeTitle>
+	<tradeArt1Name>Beli sumber daya yang tersedia secara umum</tradeArt1Name>
+	<tradeArt1Text>
+		<p>Beli sumber daya untuk mendapatkan Ethereum. 1 sumber daya = 0,001 ETH.</p>
+        <p>Untuk membeli sumber daya, cukup tambahkan Resources kontrak cerdas ke dompet Anda dan pilih kuantitas sumber daya.</p>
+	</tradeArt1Text>
+	<tradeArt2Name>Jual sumber daya Anda dengan harga yang menguntungkan</tradeArt2Name>
+	<tradeArt2Text>
+		<p>Harga sumber daya selalu sama dengan nilainya di waktu yang sama.</p>
+        <p>Anda dapat menjual sumber daya setelah membelinya atau menunggu sejenak dan menjualnya dengan harga yang lebih tinggi.</p>
+	</tradeArt2Text>
+	<tradeArt3Name>Transfer sumber daya kepada anggota keluarga Anda</tradeArt3Name>
+	<tradeArt3Text>
+		<p>Anda dapat mentransfer atau memberikan sumber daya Anda secara temporer kepada teman dan anggota keluarga Anda.</p>
+	</tradeArt3Text>
+	<tradeArt4Name>Tukar sumber daya Anda</tradeArt4Name>
+	<tradeArt4Text>
+		<p>Tukar berapa pun kuantitas sumber daya Anda untuk mendapatkan token lainnya.</p>
+	</tradeArt4Text>
+	<artArt1Title>Segalanya mungkin di dunia ini; hanya dengan satu pertanyaan: berapa banyak sumber daya yang Anda akan butuhkan</artArt1Title>
+	<artArt1Text>
+		<p>Nilai sumber daya ditentukan dalam Resources kontrak cerdas</p>
+        <p><strong>1 sumber daya = 1 finney * 8.551.000.000 / total kuantitas sumber daya</strong></p>	
+	</artArt1Text>
+	<artArt1List>
+		<li class="li1">Nilai sumber daya Anda akan berlipat ganda setelah pengelolaan sumber daya yang tersedia secara umum.</li>
+	</artArt1List>
+	<artArt2Title>Kami memberikan 100% perlindungan untuk sumber daya yang tersedia secara umum</artArt2Title>
+	<artArt2List>
+		<li class="li2">Manajemen untuk sumber daya yang tersedia secara umum diatur oleh kontrak cerdas</li>
+        <li class="li3">Hak-hak untuk sumber daya yang tersedia secara umum tidak dapat ditransfer kepada siapa pun juga</li>
+        <li class="li4">Kontrak cerdas tidak dapat dihanguskan. Pengembang Resource Coin telah melindungi kontrak cerdas dan telah meniadakan kemungkinan penggunaan kode destruktif oleh penyusup</li>
+	</artArt2List>
+	<artArt3Title>Selalu lindungi aset Anda dengan aman</artArt3Title>
+	<artArt3List>
+		<li class="li5">Aset untuk membeli Ethereum dilindungi dengan aman oleh kontrak cerdas</li>
+        <li class="li6">Anda hanya bisa mendapatkan Ethereum setelah penjualan sumber daya yang Anda beli sebelumnya</li>
+	</artArt3List>
+	<calcTitle>Gandakan nilai sumber daya Anda</calcTitle>
+	<calcList>
+		<li class="li1 wow fadeInRight" data-wow-delay='0.1s'>Kami akan mengelola sumber daya untuk meningkatkan laba Anda</li>
+        <li class="li2 wow fadeInRight" data-wow-delay='0.1s'>Kami akan menghancurkan setengah sumber daya untuk menggandakan nilai sumber daya Anda.</li>
+        <li class="li3 wow fadeInRight" data-wow-delay='0.1s'>Kami hanya akan melikuidasi sumber daya yang tersedia secara umum. Sumber daya Anda akan tetap utuh.</li>
+	</calcList>
+	<calcTitle2>Kalkulasi laba dari penghancuran sumber daya</calcTitle2>
+	<calcLabelRes>Pilih kuantitas awal dari sumber daya</calcLabelRes>
+	<calcTextRes>sumber daya'</calcTextRes>
+	<calcLabelDay>Pilih hari penjualan sumber daya setelah pengelolaan</calcLabelDay>
+	<calcTextDay>hari ini</calcTextDay>
+	<calcResultText>
+		<div class="name">Nilai sumber daya Anda akan tumbuh sebesar <strong><span>50</span>%</strong> dan akan berjumlah hingga</div>
+        <div class="sum">
+        	<div class="res"><span>750.000</span> ресурсов</div>
+            <div class="eth">atau <strong><span>750</span> ETH</strong></div>
+        </div>
+	</calcResultText>
+	<calcLink>Dapatkan sumber daya</calcLink>
+	<grafTitle>Laba dari pengelolaan setengah sumber daya yang tersedia secara umum</grafTitle>
+	<grafSubtitle>Sumber daya akan dikelola dalam 32 hari. Setiap hari, kuantitas sumber daya yang dihancurkan akan berlipat ganda</grafSubtitle>
+	<grafLabel1>Kuantitas sumber daya dikelola dalam 32 hari</grafLabel1>
+	<grafLabel2>Nilai dari 10.000 sumber daya</grafLabel2>
+	<grafLink>Dapatkan sumber daya</grafLink>
+	<workTitle>Kami melakukan segala upaya agar Anda menghasilkan laba dari pengelolaan sumber daya</workTitle>
+	<workText1>
+		<p>Kami membeli sumber daya dengan harga minimal</p>
+	</workText1>
+	<workHideText1>
+		<p>Kami membeli sumber daya dengan harga minimal</p>
+	</workHideText1>
+	<workText2>
+		<p>Kami mengelola sumber daya. Nilai sumber daya akan tumbuh sebesar 100%</p>
+	</workText2>
+	<workHideText2>
+		<p>Kami mengelola sumber daya. Nilai sumber daya akan tumbuh sebesar 100%</p>
+	</workHideText2>
+	<workText3>
+		<p>Kami menempatkan sumber daya pada bursa efek kripto dan bekerja sama dengan mitra potensial</p>
+	</workText3>
+	<workHideText3>
+		<p>Kami menempatkan sumber daya pada bursa efek kripto dan bekerja sama dengan mitra potensial</p>
+	</workHideText3>
+	<workHideLink>Lebih rinci</workHideLink>
+	<mapTitle>Kami meningkatkan teknologi blockchain dan bekerja sama dengan para pemimpin global</mapTitle>
+	<socTitle>Kami mengikuti perkembangan Resource Coin</socTitle>
+	<socText1>Di Media Sosial </socText1>
+	<socText2>Di Messenger</socText2>
+	<socText3>Di Blog</socText3>
+	<socText4>Melalui Pesan</socText4>
+	<footerDescription>Sumber daya adalah yang Anda butuhkan untuk mencapai tujuan Anda</footerDescription>
+</lang>

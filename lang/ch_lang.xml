@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lang>
+	<headDescription>实现您目标的条件只有一个  — 资源</headDescription>
+	<topTitle>公共资源减少50%之后您的数字货币升值一倍。</topTitle>
+	<topText>资源 — Resources智能合约数字货币，用它可以兑换以太币。1单位资源=0.001单位以太币。 我们消除一半的公共资源，这样可以使您之前获得的数字货币价格翻番。</topText>
+	<topLink>了解更多</topLink>
+	<topCountdownName>距消除公共资源还剩</topCountdownName>
+	<topCountdown><div class="cd_bl days"><div class="num">{dnn}</div><div class="text">天</div></div><div class="cd_bl hour"><div class="num">{hnn}</div><div class="text">小时</div></div><div class="cd_bl min"><div class="num">{mnn}</div><div class="text">分钟</div></div><div class="cd_bl sec"><div class="num">{snn}</div><div class="text">秒</div></div></topCountdown>
+	<topTrigger1>您可随时获得，转让，交易和保存以太币资源。</topTrigger1>
+	<topTrigger2>我们挖到了85亿5千1百万资源，并计划不再挖掘新资源。</topTrigger2>
+	<topTrigger3>我们保证您的数字货币安全。技术人员无法破解智能合约。</topTrigger3>
+	<newResourceTitle>我们已经完全停止开采新的资源</newResourceTitle>
+	<infoTitle>资源有限，您的机会无限</infoTitle>
+	<infoArt1Name>资源是什么？</infoArt1Name>
+	<infoArt1Text>
+		<p>1单位资源 = 1个Resources的智能合约币。</p>
+		<p>Resources的主旨 — 让数字货币近似于普通资源：水，石油，天然气，普通货币。</p>
+        <p>资源有限。因资源减少其价值自然会升高。</p>
+	</infoArt1Text>
+	<infoArt2Name>为何是85亿5千1百万单位资源？</infoArt2Name>
+	<infoArt2Text>
+		<p>资源的数量符合2030年预计人口总数 — 85亿5千1百万人。</p>
+        <p>无计划推出新的资源。</p>
+        <p>85亿5千1百万单位资源 — 可能的最大资源数量。</p>
+	</infoArt2Text>
+	<infoLink>获取资源</infoLink>
+	<tradeTitle>买卖，交换或者转送给您的朋友和亲人</tradeTitle>
+	<tradeArt1Name>购买公共资源</tradeArt1Name>
+	<tradeArt1Text>
+		<p>用以太币购买资源。1单位资源=0.001个以太币。</p>
+        <p>只需要在钱包中加入Resources智能合约并选择资源数量即可获得资源。</p>
+	</tradeArt1Text>
+	<tradeArt2Name>以划算的价格出售您的资源。</tradeArt2Name>
+	<tradeArt2Text>
+		<p>同一时间的资源价格等于它的价值。</p>
+        <p>您可在购买资源以后立即将其出售，或者等到您期待的价格时再出售。</p>
+	</tradeArt2Text>
+	<tradeArt3Name>向您的亲友推荐资源。</tradeArt3Name>
+	<tradeArt3Text>
+		<p>您可以临时将资源转让或者赠与您的亲友。</p>
+	</tradeArt3Text>
+	<tradeArt4Name>交换资源</tradeArt4Name>
+	<tradeArt4Text>
+		<p>您可以将自己任意数量的资源换成其他数字货币。</p>
+	</tradeArt4Text>
+	<artArt1Title>世上一切皆有可能，只有一个关键问题：您需要多少资源？</artArt1Title>
+	<artArt1Text>
+		<p>资源价格显示在Resources的智能合约中</p>
+        <p><strong>1单位资源 =  1 finney × 8 551 000 000 / 资源总量</strong></p>	
+	</artArt1Text>
+	<artArt1List>
+		<li class="li1">在消除一半公共资源的条件下您的资源将升值一倍</li>
+	</artArt1List>
+	<artArt2Title>提供100%的公共资源保护</artArt2Title>
+	<artArt2List>
+		<li class="li2">公共资源由智能合约管理</li>
+        <li class="li3">公共资源权利不可转移</li>
+        <li class="li4">智能合约不会消失。"Resource Coin"的技术人员保证智能合约的安全免受入侵破坏代码的攻击。</li>
+	</artArt2List>
+	<artArt3Title>以可靠的防护保证您的资产安全。</artArt3Title>
+	<artArt3List>
+		<li class="li5">购买以太币的资产受到智能合约可靠的防护</li>
+        <li class="li6">在销售出之前获得的资源之后您可获得以太币</li>
+	</artArt3List>
+	<calcTitle>使您的资源增值一倍</calcTitle>
+	<calcList>
+		<li class="li1 wow fadeInRight" data-wow-delay='0.1s'>为了增加您的利润，我们将对资源进行消除</li>
+        <li class="li2 wow fadeInRight" data-wow-delay='0.1s'>减少一半的资源，使您的资源价值翻番。</li>
+        <li class="li3 wow fadeInRight" data-wow-delay='0.1s'>只消除公共资源，您的资源依然会被保留。</li>
+	</calcList>
+	<calcTitle2>请计算消除资源所能获得的利润</calcTitle2>
+	<calcLabelRes>选择初始资源数量</calcLabelRes>
+	<calcTextRes>资源'</calcTextRes>
+	<calcLabelDay>选择消除资源之后资源出售日期</calcLabelDay>
+	<calcTextDay>一天</calcTextDay>
+	<calcResultText>
+		<div class="name">您的资源升值 <strong><span>50</span>%</strong> 即</div>
+        <div class="sum">
+        	<div class="res"><span>750.000</span> 资源'</div>
+            <div class="eth">万单位资源或 <strong><span>750</span> ETH</strong></div>
+        </div>
+	</calcResultText>
+	<calcLink>获取资源</calcLink>
+	<grafTitle>在消除一半公共资源下获利</grafTitle>
+	<grafSubtitle>公共资源消除将会在近32天进行。每天消除的资源翻倍</grafSubtitle>
+	<grafLabel1>32天消除资源的数量</grafLabel1>
+	<grafLabel2>10000单位资源价格</grafLabel2>
+	<grafLink>获取资源</grafLink>
+	<workTitle>尽我们所能，使您在消除公共资源时获利</workTitle>
+	<workText1>
+		<p>以最低价购买资源</p>
+	</workText1>
+	<workHideText1>
+		<p>以最低价购买资源</p>
+	</workHideText1>
+	<workText2>
+		<p>消除公共资源，资源价格翻倍</p>
+	</workText2>
+	<workHideText2>
+		<p>消除公共资源，资源价格翻倍</p>
+	</workHideText2>
+	<workText3>
+		<p>我们在加密股票市场投放资源并吸收潜在的合作伙伴</p>
+	</workText3>
+	<workHideText3>
+		<p>我们在加密股票市场投放资源并吸收潜在的合作伙伴</p>
+	</workHideText3>
+	<workHideLink>更详细</workHideLink>
+	<mapTitle>我们改进了与世界上领先者合作的区块链技术</mapTitle>
+	<socTitle>订阅"Resource Coin"新闻</socTitle>
+	<socText1>在社交网络上</socText1>
+	<socText2>通过及时工具</socText2>
+	<socText3>在博客上</socText3>
+	<socText4>通过邮箱</socText4>
+	<footerDescription>实现您目标的条件只有一个  — 资源</footerDescription>
+</lang>

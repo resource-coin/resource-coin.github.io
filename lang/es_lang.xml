@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lang>
+	<headDescription>Todo lo que necesitas para alcanzar tus objetivos son recursos.</headDescription>
+	<topTitle>Duplica el valor de tus tokens Resources después de eliminar el 50% de los recursos de acceso público. </topTitle>
+	<topText>El recurso es un token del contrato inteligente Resources que puede adquirirse a cambio de <strong>Ethereum.</strong> 1 recurso = 0,001 ETH. Vamos a eliminar la mitad de los recursos de acceso público para duplicar el valor de los tokens que adquiriste anteriormente.</topText>
+	<topLink>Conoce más</topLink>
+	<topCountdownName>Para la eliminación de los recursos faltan: </topCountdownName>
+	<topCountdown><div class="cd_bl days"><div class="num">{dnn}</div><div class="text">días</div></div><div class="cd_bl hour"><div class="num">{hnn}</div><div class="text">horas</div></div><div class="cd_bl min"><div class="num">{mnn}</div><div class="text">minutos</div></div><div class="cd_bl sec"><div class="num">{snn}</div><div class="text">segundos</div></div></topCountdown>
+	<topTrigger1>Puedes adquirir los recursos por Ethereum, regalarlos, intercambiarlos y entregarlos para su conservación en cualquier momento. </topTrigger1>
+	<topTrigger2>Hemos conseguido <strong>8.551.000.000</strong> recursos. No está previsto emitir más.</topTrigger2>
+	<topTrigger3>Tus tokens estarán protegidos. El contrato inteligente no puede ser suprimido por sus desarrolladores. </topTrigger3>
+	<newResourceTitle>Hemos dado por terminada la obtención de nuevos recursos </newResourceTitle>
+	<infoTitle>Los recursos siempre son limitados, mientras tus oportunidades no lo son</infoTitle>
+	<infoArt1Name>¿Qué es recurso?</infoArt1Name>
+	<infoArt1Text>
+		<p>1 recurso = 1 token del contrato inteligente Resources</p>
+		<p>El concepto de Resources tiene cierta semejanza con los recursos comunes: agua, petróleo, gas, moneda.</p>
+        <p>La cantidad de los recursos siempre está limitada. Al reducir el número de los recursos, su valor se ve aumentada.</p>
+	</infoArt1Text>
+	<infoArt2Name>¿Por qué son 8.551.000.000 recursos?</infoArt2Name>
+	<infoArt2Text>
+		<p>La cantidad de los recursos corresponde a la población del planeta prevista para el año 2030, a saber, 8.551.000.000.</p>
+        <p>No se prevé emitir más recursos.</p>
+        <p>8.551.000.000 es el número máximo posible de los recursos.</p>
+	</infoArt2Text>
+	<infoLink>Obtener recursos</infoLink>
+	<tradeTitle>Compra, vende, intercambia o transfiere los recursos a tus amigos y familiares</tradeTitle>
+	<tradeArt1Name>Compra los recursos de acceso público</tradeArt1Name>
+	<tradeArt1Text>
+		<p>Compra los recursos por Ethereum. 1 recurso = 0,001 ETH.</p>
+        <p>Para adquirir los recursos simplemente agrega a tu monedero el contrato inteligente Resources y elige la cantidad de los recursos.</p>
+	</tradeArt1Text>
+	<tradeArt2Name>Vende tus recursos a buen precio </tradeArt2Name>
+	<tradeArt2Text>
+		<p>En un momento concreto el precio de los recursos siempre equivale a su valor.</p>
+        <p>Puedes vender los recursos nada más comprarlos o esperar un poco y luego venderlos a un precio más ventajoso. </p>
+	</tradeArt2Text>
+	<tradeArt3Name>Transfiere los recursos a tus amigos</tradeArt3Name>
+	<tradeArt3Text>
+		<p>Puedes traspasar temporalmente o regalar los recursos a tus amigos y familiares.</p>
+	</tradeArt3Text>
+	<tradeArt4Name>Intercambia tur recursos</tradeArt4Name>
+	<tradeArt4Text>
+		<p>Puedes intercambiar cualquier cantidad de tus recursos por otros tokens.</p>
+	</tradeArt4Text>
+	<artArt1Title>En este mundo todo es posible, la única pregunta es: ¿cuántos recursos vas a necesitar?</artArt1Title>
+	<artArt1Text>
+		<p>El precio de los recursos está indicado en el contrato inteligente Resources</p>
+        <p><strong>1 recurso = 1 finney * 8.551.000.000/ cantidad total de los recursos</strong></p>	
+	</artArt1Text>
+	<artArt1List>
+		<li class="li1">Una vez eliminada la mitad de los recursos de acceso público, el valor de tus recursos se duplicará.</li>
+	</artArt1List>
+	<artArt2Title>Garantizamos la seguridad del 100% para los recursos de acceso público.</artArt2Title>
+	<artArt2List>
+		<li class="li2">Los recursos de acceso público se regulan por el contrato inteligente</li>
+        <li class="li3">Los derechos sobre los recursos públicos no pueden transferirse a otra persona</li>
+        <li class="li4">El contrato inteligente no puede suprimirse. Los desarrolladores de Resource Coin protegieron el contrato inteligente, privando a los intrusos de la posibilidad de lanzar un código destructivo </li>
+	</artArt2List>
+	<artArt3Title>Aseguramos la máxima protección de tus fondos</artArt3Title>
+	<artArt3List>
+		<li class="li5">Los fondos para comprar Ethereum están protegidos por el contrato inteligente</li>
+        <li class="li6">Podrás recibir Ethereum sólo después de vender los recursos anteriormente adquiridos</li>
+	</artArt3List>
+	<calcTitle>Duplica el valor de tus tokens </calcTitle>
+	<calcList>
+		<li class="li1 wow fadeInRight" data-wow-delay='0.1s'>Para aumentar tus beneficios, vamos a eliminar los recursos.</li>
+        <li class="li2 wow fadeInRight" data-wow-delay='0.1s'>Eliminaremos la mitad de los recursos para aumentar dos veces el valor de tus recursos.</li>
+        <li class="li3 wow fadeInRight" data-wow-delay='0.1s'>Se eliminarán sólo los recursos de acceso público. Tus recursos permanecerán intactos.</li>
+	</calcList>
+	<calcTitle2>Calcula el beneficio tras la eliminación de los recursos</calcTitle2>
+	<calcLabelRes>Elige la cantidad inicial de los recursos</calcLabelRes>
+	<calcTextRes>recursos</calcTextRes>
+	<calcLabelDay>Elige el día de la venta de los recursos después de iniciar la eliminación</calcLabelDay>
+	<calcTextDay>días</calcTextDay>
+	<calcResultText>
+		<div class="name">El valor de tus recursos aumentará el <strong><span>50</span>%</strong>  llegando a</div>
+        <div class="sum">
+        	<div class="res"><span>750.000</span> recursos</div>
+            <div class="eth">o <strong><span>750</span> ETH</strong></div>
+        </div>
+	</calcResultText>
+	<calcLink>Obtener recursos</calcLink>
+	<grafTitle>Benefíciate de la eliminación de la mitad de los recursos públicos</grafTitle>
+	<grafSubtitle>La eliminación de los recursos se llevará a cabo en 32 días. Cada día se duplicará el número de los recursos a eliminar</grafSubtitle>
+	<grafLabel1>Cantidad de los recursos eliminados en 32 días</grafLabel1>
+	<grafLabel2>Valor de 10.000 recursos</grafLabel2>
+	<grafLink>Obtener recursos</grafLink>
+	<workTitle>Hacemos todo lo posible para que puedas ganar en la eliminación de los recursos</workTitle>
+	<workText1>
+		<p>Adquirimos los recursos por el precio mínimo</p>
+	</workText1>
+	<workHideText1>
+		<p>Adquirimos los recursos por el precio mínimo</p>
+	</workHideText1>
+	<workText2>
+		<p>Eliminamos los recursos. El valor de los recursos crecerá el 100%</p>
+	</workText2>
+	<workHideText2>
+		<p>Eliminamos los recursos. El valor de los recursos crecerá el 100%</p>
+	</workHideText2>
+	<workText3>
+		<p>Colocamos los recursos en las cripto-bolsas atrayendo a los socios potenciales</p>
+	</workText3>
+	<workHideText3>
+		<p>Colocamos los recursos en las cripto-bolsas atrayendo a los socios potenciales</p>
+	</workHideText3>
+	<workHideLink>detallado</workHideLink>
+	<mapTitle>Perfeccionamos las tecnologías blockchain en colaboración con los líderes mundiales</mapTitle>
+	<socTitle>Sigue el desarrollo de Resource Coin</socTitle>
+	<socText1>En las redes sociales</socText1>
+	<socText2>En los messengers </socText2>
+	<socText3>En los blogs</socText3>
+	<socText4>Por email</socText4>
+	<footerDescription>Todo lo que necesitas para alcanzar tus objetivos son recursos.</footerDescription>
+</lang>

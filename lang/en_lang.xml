@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lang>
+	<headDescription>Resources are all you need to achieve your goals</headDescription>
+	<topTitle>Double the value of your Resources tokens after the destruction of 50% of generally available resources</topTitle>
+	<topText>A resource is a token of the smart contract Resources which you can purchase in exchange for <strong>Ethereum.</strong> 1 resource = 0.001 ETH. We will destroy half of the generally available resources so that the value of the tokens purchased by you earlier doubles.</topText>
+	<topLink>Learn more about resources</topLink>
+	<topCountdownName><span>The utilization of</span> resources will begin in</topCountdownName>
+	<topCountdown><div class="cd_bl days"><div class="num">{dnn}</div><div class="text">days</div></div><div class="cd_bl hour"><div class="num">{hnn}</div><div class="text">hours</div></div><div class="cd_bl min"><div class="num">{mnn}</div><div class="text">minutes</div></div><div class="cd_bl sec"><div class="num">{snn}</div><div class="text">seconds</div></div></topCountdown>
+	<topTrigger1>You can purchase resources for Ethereum, give, exchange, and transfer them for storage at any time.</topTrigger1>
+	<topTrigger2>We have obtained <strong>8,551,000,000</strong> resources. The issue of new resources is not expected.</topTrigger2>
+	<topTrigger3>Your tokens will be safe. The smart contract can't be destroyed by the developers.</topTrigger3>
+	<newResourceTitle>We have entirely discontinued the obtainment of new resources</newResourceTitle>
+	<infoTitle>Resources are always limited, unlike your opportunities</infoTitle>
+	<infoArt1Name>What are resources?</infoArt1Name>
+	<infoArt1Text>
+		<p>1 resource = 1 token of the smart contract Resources.</p>
+		<p>The main idea of Resources is the similarity of tokens with typical resources: water, oil, gas, and currency.</p>
+        <p>The quantity of resources is always limited. The value of resources grows with as their quantity decreases.</p>
+	</infoArt1Text>
+	<infoArt2Name>Why is the quantity of resources 8,551,000,000?</infoArt2Name>
+	<infoArt2Text>
+		<p>The quantity of resources corresponds to the forecasted number of people on the planet by 2030: 8,551,000,000.</p>
+        <p>The issue of new resources is not expected</p>
+        <p>8,551,000,000 is the maximum possible quantity of resources.</p>
+	</infoArt2Text>
+	<infoLink>Get resources</infoLink>
+	<tradeTitle>Buy, sell, exchange or transfer resources to your friends and family members</tradeTitle>
+	<tradeArt1Name>Buy generally available resources</tradeArt1Name>
+	<tradeArt1Text>
+		<p>Buy resources for Ethereum. 1 resource = 0.001 ETH.</p>
+        <p>To buy resources simply add the smart contract Resources to your wallet and select the quantity of the resources.</p>
+	</tradeArt1Text>
+	<tradeArt2Name>Sell your resources at a favorable price</tradeArt2Name>
+	<tradeArt2Text>
+		<p>The price of resources is always equal to their value at one and the same point in time.</p>
+        <p>You can sell resources right after their purchase or wait a little and sell them at a higher price.</p>
+	</tradeArt2Text>
+	<tradeArt3Name>Transfer resources to your family members</tradeArt3Name>
+	<tradeArt3Text>
+		<p>You can temporarily transfer or give resources to your friends and family members.</p>
+	</tradeArt3Text>
+	<tradeArt4Name>Exchange your resources</tradeArt4Name>
+	<tradeArt4Text>
+		<p>Exchange any quantity of your resources for other tokens.</p>
+	</tradeArt4Text>
+	<artArt1Title>Everything is possible in this world; with only one question: how many resources will you need</artArt1Title>
+	<artArt1Text>
+		<p>The value of the resources is specified in the smart contract Resources</p>
+        <p><strong>1 resource = 1 finney * 8,551,000,000 / total quantity of resources</strong></p>	
+	</artArt1Text>
+	<artArt1List>
+		<li class="li1">The value of your resources will double upon the utilization of the generally available resources.</li>
+	</artArt1List>
+	<artArt2Title>We provide 100% protection for generally available resources</artArt2Title>
+	<artArt2List>
+		<li class="li2">The management of generally available resources is regulated by the smart contract</li>
+        <li class="li3">The rights to generally available resources can't be transferred to anybody</li>
+        <li class="li4"><strong>The smart contract</strong> can't be destroyed. The Resource Coin developers have protected the smart contract and have eliminated the possibility to use the destructive code by intruders</li>
+	</artArt2List>
+	<artArt3Title>Keep your assets securely protected</artArt3Title>
+	<artArt3List>
+		<li class="li5">The assets for the purchase of Ethereum are securely protected by the smart contract</li>
+        <li class="li6">You can obtain Ethereum only after the sale of earlier purchased resources</li>
+	</artArt3List>
+	<calcTitle>Double the value of your resources</calcTitle>
+	<calcList>
+		<li class="li1 wow fadeInRight" data-wow-delay='0.1s'>We will utilize resources to increase your profit</li>
+        <li class="li2 wow fadeInRight" data-wow-delay='0.1s'>We will destroy half of the resources to double the value of your resources.</li>
+        <li class="li3 wow fadeInRight" data-wow-delay='0.1s'>We will liquidate only the generally available resources. Your resources will remain intact.</li>
+	</calcList>
+	<calcTitle2>Calculate the profit from the destruction of resources</calcTitle2>
+	<calcLabelRes>Select the initial quantity of resources</calcLabelRes>
+	<calcTextRes>resources</calcTextRes>
+	<calcLabelDay>Select the day of sale of resources after utilization</calcLabelDay>
+	<calcTextDay>days</calcTextDay>
+	<calcResultText>
+		<div class="name">The value of your resources will grow by <strong><span>50</span>%</strong> and will amount to </div>
+        <div class="sum">
+        	<div class="res"><span>750.000</span> resources</div>
+            <div class="eth">or <strong><span>750</span> ETH</strong></div>
+        </div>
+	</calcResultText>
+	<calcLink>Get resources</calcLink>
+	<grafTitle>Profit from the utilization of a half of the generally available resources</grafTitle>
+	<grafSubtitle>The resources will be utilized within 32 days. Each day the quantity of destroyed resources doubles</grafSubtitle>
+	<grafLabel1>The quantity of resources utilized in 32 days</grafLabel1>
+	<grafLabel2>The value of 10,000 resources</grafLabel2>
+	<grafLink>Get resources</grafLink>
+	<workTitle>We do everything we can so that you earn a profit from the utilization of resources</workTitle>
+	<workText1>
+		<p>We purchase the resources at the minimal price</p>
+	</workText1>
+	<workHideText1>
+		<p>We purchase the resources at the minimal price</p>
+	</workHideText1>
+	<workText2>
+		<p>We utilize the resources. The value of the resources will grow by 100%</p>
+	</workText2>
+	<workHideText2>
+		<p>We utilize the resources. The value of the resources will grow by 100%</p>
+	</workHideText2>
+	<workText3>
+		<p>We place the resources on crypto stock exchanges and involve potential partners in cooperation</p>
+	</workText3>
+	<workHideText3>
+		<p>We place the resources on crypto stock exchanges and involve potential partners in cooperation</p>
+	</workHideText3>
+	<workHideLink>More info</workHideLink>
+	<mapTitle>We improve blockchain technologies and cooperate with world leaders</mapTitle>
+	<socTitle>We follow the development of Resource Coin</socTitle>
+	<socText1>On social media  </socText1>
+	<socText2>On messengers</socText2>
+	<socText3>On blogs</socText3>
+	<socText4>In the mail</socText4>
+	<footerDescription>Resources are all you need to achieve your goals</footerDescription>
+</lang>

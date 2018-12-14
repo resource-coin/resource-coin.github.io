@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lang>
+	<headDescription>Alles, was Sie zum Erreichen Ihrer Ziele benötigen, sind Ressourcen</headDescription>
+	<topTitle>Verdopplen Sie den Wert Ihrer Ressourcen-Token nach der Zerstörung von 50% der allgemein verfügbaren Ressourcen</topTitle>
+	<topText>Eine Ressource ist ein Token der Smart Contract Resources, die Sie im Tausch gegen <strong>Ethereum</strong> erwerben können. 1 Ressource = 0,001 ETH. Wir werden die Hälfte der allgemein verfügbaren Ressourcen zerstören, so dass sich der Wert der von Ihnen früher erworbenen Tokens verdoppelt.</topText>
+	<topLink>Erfahren Sie mehr über Ressourcen</topLink>
+	<topCountdownName>Bis zum Beginn der Resourcennutzung verbleiben </topCountdownName>
+	<topCountdown><div class="cd_bl days"><div class="num">{dnn}</div><div class="text">Tage</div></div><div class="cd_bl hour"><div class="num">{hnn}</div><div class="text">Stunden</div></div><div class="cd_bl min"><div class="num">{mnn}</div><div class="text">Minuten</div></div><div class="cd_bl sec"><div class="num">{snn}</div><div class="text">Sekunden</div></div></topCountdown>
+	<topTrigger1>Sie können jederzeit Ressourcen für Ethereum erwerben, abgeben, austauschen und zur Speicherung übertragen.</topTrigger1>
+	<topTrigger2>Wir haben <strong>8 551 000 000</strong> Ressourcen extrahiert. Die Ausgabe neuer Ressourcen ist nicht geplant.</topTrigger2>
+	<topTrigger3>Ihre Token sind sicher. Ein Smart Contract kann von den Entwicklern nicht zerstört werden.</topTrigger3>
+	<newResourceTitle>Wir haben die Gewinnung neuer Ressourcen vollständig eingestellt</newResourceTitle>
+	<infoTitle>Die Ressourcen sind immer begrenzt, im Gegensatz zu Ihren Möglichkeiten </infoTitle>
+	<infoArt1Name>Was sind Ressourcen?</infoArt1Name>
+	<infoArt1Text>
+		<p>1 Ressource = 1 Token der Smart Contract Ressource.</p>
+		<p>Die Hauptidee von Resources ist die Ähnlichkeit von Token zu konventionellen Ressourcen: Wasser, Öl, Gas, Währung.</p>
+        <p>Die Menge der Ressourcen ist immer begrenzt. Der Wert von Ressourcen wächst mit abnehmender Menge.</p>
+	</infoArt1Text>
+	<infoArt2Name>Warum ist die Menge der Ressourcen 8 551 000 000?</infoArt2Name>
+	<infoArt2Text>
+		<p>Die Menge an Ressourcen entspricht der prognostizierten Anzahl von Menschen auf dem Planeten bis 2030 - 8 551 000 000.</p>
+        <p>Die Freigabe neuer Ressourcen ist nicht vorgesehen.</p>
+        <p>8 551 000 000 - die maximal mögliche Menge an Ressourcen.</p>
+	</infoArt2Text>
+	<infoLink>Ressourcen abrufen</infoLink>
+	<tradeTitle>Kaufen, verkaufen, tauschen oder übertragen Sie Ressourcen an Ihre Freunde und Familie</tradeTitle>
+	<tradeArt1Name>Kaufen Sie allgemein verfügbare Ressourcen</tradeArt1Name>
+	<tradeArt1Text>
+		<p>Kaufen Sie Ressourcen für Ethereum. 1 Ressource = 0,001 ETH.</p>
+        <p>Um Ressourcen zu erwerben, fügen Sie einfach die Smart Contract Resources zu Ihrem Portemonnaie hinzu und wählen Sie die Anzahl der Ressourcen aus.</p>
+	</tradeArt1Text>
+	<tradeArt2Name>Verkaufen Sie Ihre Ressourcen zu einem günstigen Preis</tradeArt2Name>
+	<tradeArt2Text>
+		<p>Der Preis von Ressourcen ist immer gleich ihrem Wert zu ein und demselben Zeitpunkt.</p>
+        <p>Sie können die Ressourcen direkt nach dem Kauf verkaufen oder etwas warten und zu einem für Sie günstigeren Preis  verkaufen.</p>
+	</tradeArt2Text>
+	<tradeArt3Name>Übertragen Sie Ressourcen an Ihre Familienmitglieder</tradeArt3Name>
+	<tradeArt3Text>
+		<p>Sie können Ressourcen vorübergehend an Freunde und Familie übertragen oder schenken.</p>
+	</tradeArt3Text>
+	<tradeArt4Name>Tauschen Sie Ihre Ressourcen</tradeArt4Name>
+	<tradeArt4Text>
+		<p>Tauschen Sie eine beliebige Anzahl Ihrer Ressourcen gegen andere Token aus.</p>
+	</tradeArt4Text>
+	<artArt1Title>In dieser Welt ist alles möglich, eine Frage: Wie viel Ressourcen brauchen Sie?</artArt1Title>
+	<artArt1Text>
+		<p>Der Werrt der Ressourcen ist in den Smart Contract Resources angegeben</p>
+        <p><strong>1 Ressource = 1 Finney * 8 551 000 000 / Gesamtressourcen</strong></p>	
+	</artArt1Text>
+	<artArt1List>
+		<li class="li1">Der Wert Ihrer Ressourcen verdoppelt sich durch die Nutzung der allgemein verfügbaren Ressourcen.</li>
+	</artArt1List>
+	<artArt2Title>Wir bieten 100% igen Schutz für allgemein verfügbare Ressourcen</artArt2Title>
+	<artArt2List>
+		<li class="li2">Die Verwaltung allgemein verfügbarer Ressourcen wird durch einen Smart Contract geregelt</li>
+        <li class="li3">Die Rechte an allgemein verfügbaren Ressourcen können nicht an Dritte übertragen werden</li>
+        <li class="li4">Der Smart Contract kann nicht zerstört werden. Die Entwickler von "Resource Coin" haben den Smart Contract geschützt und die Möglichkeit eliminiert, den zerstörerischen Code durch Eindringlinge zu verwenden</li>
+	</artArt2List>
+	<artArt3Title>Halten Sie Ihre Vermögenswerte sicher geschützt</artArt3Title>
+	<artArt3List>
+		<li class="li5">Die Vermögenswerte für den Kauf von Ethereum sind durch den Smart Contract sicher geschützt</li>
+        <li class="li6">Ethereum können Sie nur nach dem Verkauf von zuvor erworbenen Ressourcen erhalten</li>
+	</artArt3List>
+	<calcTitle>Verdoppeln Sie den Wert Ihrer Ressourcen</calcTitle>
+	<calcList>
+		<li class="li1 wow fadeInRight" data-wow-delay='0.1s'>Wir werden Ressourcen nutzen, um Ihren Gewinn zu steigern</li>
+        <li class="li2 wow fadeInRight" data-wow-delay='0.1s'>Wir werden die Hälfte der Ressourcen zerstören, um den Wert Ihrer Ressourcen zu verdoppeln.</li>
+        <li class="li3 wow fadeInRight" data-wow-delay='0.1s'>Wir werden nur die allgemein verfügbaren Ressourcen liquidieren. Ihre Ressourcen bleiben erhalten.</li>
+	</calcList>
+	<calcTitle2>Berechnen Sie den Profit aus der Zerstörung von Ressourcen</calcTitle2>
+	<calcLabelRes>Wählen Sie die anfängliche Menge an Ressourcen aus</calcLabelRes>
+	<calcTextRes>Ressourcen</calcTextRes>
+	<calcLabelDay>Wählen Sie den Tag des Verkaufs von Ressourcen nach der Nutzung</calcLabelDay>
+	<calcTextDay>Tags</calcTextDay>
+	<calcResultText>
+		<div class="name">Der Wert Ihrer Ressourcen wird um <strong><span>50</span>%</strong> steigen und </div>
+        <div class="sum">
+        	<div class="res"><span>750.000</span> Ressourcen</div>
+            <div class="eth">oder <strong><span>750</span> ETH</strong></div>
+        </div>
+		<div class="name">betragen</div>
+	</calcResultText>
+	<calcLink>Ressourcen abrufen</calcLink>
+	<grafTitle>Profitieren Sie von der Nutzung der Hälfte der allgemein verfügbaren Ressourcen</grafTitle>
+	<grafSubtitle>Die Ressourcen werden innerhalb von 32 Tagen genutzt. Jeden Tag verdoppelt sich die Menge der zerstörten Ressourcen</grafSubtitle>
+	<grafLabel1>Die Menge der eingesetzten Ressourcen in 32 Tagen</grafLabel1>
+	<grafLabel2>Der Wert von 10 000 Ressourcen</grafLabel2>
+	<grafLink>Ressourcen abrufen</grafLink>
+	<workTitle>Wir tun alles, damit Sie mit der Nutzung von Ressourcen einen Gewinn erzielen</workTitle>
+	<workText1>
+		<p>Wir kaufen die Ressourcen zum minimalen Preis</p>
+	</workText1>
+	<workHideText1>
+		<p>Wir kaufen die Ressourcen zum minimalen Preis</p>
+	</workHideText1>
+	<workText2>
+		<p>Wir nutzen die Ressourcen. Der Wert der Ressourcen wird um 100% erhöht</p>
+	</workText2>
+	<workHideText2>
+		<p>Wir nutzen die Ressourcen. Der Wert der Ressourcen wird um 100% erhöht</p>
+	</workHideText2>
+	<workText3>
+		<p>Wir stellen die Ressourcen auf Kryptobörsen und binden potentielle Partner in Kooperation ein</p>
+	</workText3>
+	<workHideText3>
+		<p>Wir stellen die Ressourcen auf Kryptobörsen und binden potentielle Partner in Kooperation ein</p>
+	</workHideText3>
+	<workHideLink>Genauer</workHideLink>
+	<mapTitle>Wir verbessern Blockchain-Technologien und kooperieren mit führenden Unternehmen der Welt</mapTitle>
+	<socTitle>Achten Sie auf die Entwicklung von "Resource Coin"</socTitle>
+	<socText1>In sozialen Netzwerken</socText1>
+	<socText2>In Instant Messengers</socText2>
+	<socText3>In Blogs</socText3>
+	<socText4>Per Post</socText4>
+	<footerDescription>Alles, was Sie zum Erreichen Ihrer Ziele benötigen, sind Ressourcen</footerDescription>
+</lang>

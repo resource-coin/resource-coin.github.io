@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lang>
+	<headDescription>Le risorse sono tutto quello di cui hai bisogno per raggiungere i tuoi obiettivi</headDescription>
+	<topTitle>Raddoppia il costo dei tuoi token Resources dopo la distruzione del 50% delle risorse a libero accesso</topTitle>
+	<topText>Risorsa è il token del Contratto Smart di Resources acquistabile con gli <strong>Ethereum.</strong> 1 risorsa = 0,001 ETH. Le risorse a libero accesso saranno distrutte al fine di raddoppiare il costo dei token da te precedentemente acquistati.</topText>
+	<topLink>Scopri di più sulle risorse</topLink>
+	<topCountdownName>All’inizio del riciclo delle risorse mancano</topCountdownName>
+	<topCountdown><div class="cd_bl days"><div class="num">{dnn}</div><div class="text">giorni </div></div><div class="cd_bl hour"><div class="num">{hnn}</div><div class="text">ore</div></div><div class="cd_bl min"><div class="num">{mnn}</div><div class="text">minuti</div></div><div class="cd_bl sec"><div class="num">{snn}</div><div class="text">secondi</div></div></topCountdown>
+	<topTrigger1>Puoi acquistare le risorse con gli Ethereum, regalarle, scambiarle e depositarle in qualsiasi momento.</topTrigger1>
+	<topTrigger2>Abbiamo emesso <strong>8 551 000 000</strong> risorse. L'emissione di nuove risorse non è prevista.</topTrigger2>
+	<topTrigger3>I tuoi token saranno al sicuro. Il Contratto Smart non può essere distrutto dagli sviluppatori.</topTrigger3>
+	<newResourceTitle>Abbiamo definitivamente interrotto l'emissione di nuove risors</newResourceTitle>
+	<infoTitle>Le risorse sono sempre limitate a differenza delle tue possibilità</infoTitle>
+	<infoArt1Name>Cosa sono le risorse?</infoArt1Name>
+	<infoArt1Text>
+		<p>1 risorsa = 1 token del Contratto Smart di Resources.</p>
+		<p>L’idea principale di Resources è rendere i token simili alle risorse naturali come acqua, petrolio, gas, valuta.</p>
+        <p>La quantità delle risorse è sempre limitata. Con la riduzione della quantità delle risorse il loro relativo costo aumenta.</p>
+	</infoArt1Text>
+	<infoArt2Name>Perché le risorse sono 8 551 000 000?</infoArt2Name>
+	<infoArt2Text>
+		<p>La quantità di risorse corrisponde al numero di abitanti nel mondo previsto per il 2030 — 8.551.000.000.</p>
+        <p>L'emissione di nuove risorse non è prevista.</p>
+        <p>8 551 000 000 è la quantità massima delle risorse.</p>
+	</infoArt2Text>
+	<infoLink>Ottieni le risorse</infoLink>
+	<tradeTitle>Acquista, vendi, scambia e trasferisci le risorse ai tuoi amici e parenti</tradeTitle>
+	<tradeArt1Name>Acquista le risorse a libero accesso</tradeArt1Name>
+	<tradeArt1Text>
+		<p>Acquista le risorse con gli Ethereum. 1 risorsa = 0,001 ETH.</p>
+        <p>Per acquistare le risorse devi solo caricare il Contratto Smart nel tuo portafoglio e selezionare la quantità di risorse desiderata.</p>
+	</tradeArt1Text>
+	<tradeArt2Name>Vendi le tue risorse a un prezzo conveniente</tradeArt2Name>
+	<tradeArt2Text>
+		<p>Nello stesso periodo di tempo il prezzo delle risorse è sempre uguale al suo costo.</p>
+        <p>Puoi vendere le risorse subito dopo l'acquisto oppure optare per la vendita al prezzo più conveniente in un secondo momento.</p>
+	</tradeArt2Text>
+	<tradeArt3Name>Trasferisci le risorse ai tuoi parenti</tradeArt3Name>
+	<tradeArt3Text>
+		<p>Puoi temporaneamente trasferire o regalare le risorse ai tuoi amici e parenti.</p>
+	</tradeArt3Text>
+	<tradeArt4Name>Cambia le tue risorse</tradeArt4Name>
+	<tradeArt4Text>
+		<p>Cambia le tue risorse di qualsiasi entità in altri token.</p>
+	</tradeArt4Text>
+	<artArt1Title>In questo mondo tutto è possibile, l'unica domanda è quante risorse ti serviranno</artArt1Title>
+	<artArt1Text>
+		<p>Il prezzo delle risorse è indicato nel Contratto Smart di Resources</p>
+        <p><strong>1 risorsa = 1 finney * 8 551 000 000 /quantità totale di risors</strong></p>	
+	</artArt1Text>
+	<artArt1List>
+		<li class="li1">Con il riciclo delle risorse a libero accesso il costo delle tue risorse raddoppia.</li>
+	</artArt1List>
+	<artArt2Title>Garantiamo al 100% la protezione delle risorse a libero accesso</artArt2Title>
+	<artArt2List>
+		<li class="li2">La gestione delle risorse a libero accesso è regolata dal Contratto Smart</li>
+        <li class="li3">I diritti sulle risorse a libero accesso non possono essere trasmessi ai terzi</li>
+        <li class="li4">Il <strong>Contratto Smart</strong> non può essere distrutto. Gli sviluppatori della Resource Coin hanno protetto il Contratto Smart, rendendo impossibile la sua distruzione da parte dei malintenzionati</li>
+	</artArt2List>
+	<artArt3Title>Manteniamo i tuoi fondi al sicuro</artArt3Title>
+	<artArt3List>
+		<li class="li5">Il Contratto Smart garantisce la protezione sicura dei mezzi per l'acquisto di Ethereum</li>
+        <li class="li6">Potrai ottenere gli Ethereum solo dopo la vendita delle risorse acquistate in precedenza</li>
+	</artArt3List>
+	<calcTitle>Raddoppia il costo delle tue risorse</calcTitle>
+	<calcList>
+		<li class="li1 wow fadeInRight" data-wow-delay='0.1s'>Ricicleremo le risorse per aumentare i tuoi profitti</li>
+        <li class="li2 wow fadeInRight" data-wow-delay='0.1s'>Eliminiamo la metà delle risorse per raddoppiare il costo delle tue risorse.</li>
+        <li class="li3 wow fadeInRight" data-wow-delay='0.1s'>Liquidiamo soltanto le risorse a libero accesso. Le tue risorse rimarranno intatte.</li>
+	</calcList>
+	<calcTitle2>Calcola il profitto dal riciclo delle risorse</calcTitle2>
+	<calcLabelRes>Scegli la quantità iniziale di risorse</calcLabelRes>
+	<calcTextRes>risorsa</calcTextRes>
+	<calcLabelDay>Scegli il giorno per la vendita delle risorse dopo l’inizio del riciclo</calcLabelDay>
+	<calcTextDay>Giorni</calcTextDay>
+	<calcResultText>
+		<div class="name">Il costo delle tue risorse aumenterà del <strong><span>50</span>%</strong> e ammonterà a </div>
+        <div class="sum">
+        	<div class="res"><span>750.000</span> risorse</div>
+            <div class="eth">o <strong><span>750</span> ETH</strong></div>
+        </div>
+	</calcResultText>
+	<calcLink>Ottieni le risorse</calcLink>
+	<grafTitle>Ottieni profitto dal riciclo delle risorse a libero accesso</grafTitle>
+	<grafSubtitle>Il riciclo delle risorse sarà effettuato in 32 giorni. Ogni giorno la quantità di risorse distrutte viene raddoppiata</grafSubtitle>
+	<grafLabel1>Quantità di risorse riciclate in 32 giorni</grafLabel1>
+	<grafLabel2>Il costo di 10.000 risorse</grafLabel2>
+	<grafLink>Ottieni le risorse</grafLink>
+	<workTitle>Facciamo il possibile per farti guadagnare sul riciclo delle risorse</workTitle>
+	<workText1>
+		<p>Acquistiamo le risorse al prezzo più basso</p>
+	</workText1>
+	<workHideText1>
+		<p>Acquistiamo le risorse al prezzo più basso</p>
+	</workHideText1>
+	<workText2>
+		<p>Ricicliamo le risorse. Il costo delle risorse aumenterà del 100%</p>
+	</workText2>
+	<workHideText2>
+		<p>Ricicliamo le risorse. Il costo delle risorse aumenterà del 100%</p>
+	</workHideText2>
+	<workText3>
+		<p>Distribuiamo le risorse sugli exchange di criptovalute e coinvolgiamo potenziali partner</p>
+	</workText3>
+	<workHideText3>
+		<p>Distribuiamo le risorse sugli exchange di criptovalute e coinvolgiamo potenziali partner</p>
+	</workHideText3>
+	<workHideLink>dettagliato</workHideLink>
+	<mapTitle>Miglioriamo la tecnologia blockchain in collaborazione con i leader mondiali</mapTitle>
+	<socTitle>Segui lo sviluppo di Resource Coin</socTitle>
+	<socText1>Nei social network</socText1>
+	<socText2>Sui canali di messaggistica</socText2>
+	<socText3>Sui blog</socText3>
+	<socText4>Per e-mail</socText4>
+	<footerDescription>Le risorse sono tutto quello di cui hai bisogno per raggiungere i tuoi obiettivi</footerDescription>
+</lang>

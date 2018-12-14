@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lang>
+	<headDescription>ゴールを達成するために必要なものはResourcesだけです</headDescription>
+	<topTitle>一般的に利用できるResourcesの50%の破壊後に、リソーストークンの価値を倍にしましょう</topTitle>
+	<topText>リソースとはイーサリアムで購入可能なスマートコントラクト「Resources」のトークンです。1 リソース = 0.001 ETH 当社は一般に利用可能なリソースの半分を破壊し、初期にご購入いただいたトークンの価値を倍にします。</topText>
+	<topLink>リソースの詳細はこちらから</topLink>
+	<topCountdownName>リソースの発売開始まで：</topCountdownName>
+	<topCountdown><div class="cd_bl days"><div class="num">{dnn}</div><div class="text">日</div></div><div class="cd_bl hour"><div class="num">{hnn}</div><div class="text">時間</div></div><div class="cd_bl min"><div class="num">{mnn}</div><div class="text">分</div></div><div class="cd_bl sec"><div class="num">{snn}</div><div class="text">秒</div></div></topCountdown>
+	<topTrigger1>いつでもイーサリアムを入金、交換、送金して、リソースを購入し、保管可能です。</topTrigger1>
+	<topTrigger2>当社はこれまでに8,551,000,000リソースを取得しました。新しいリソースの発行は予測されていません。</topTrigger2>
+	<topTrigger3>あなたのトークンは安全です。スマートコントラクトはデベロッパーにより破壊されることはありません。</topTrigger3>
+	<newResourceTitle>当社は新しいリソースの取得を全面的に停止しました</newResourceTitle>
+	<infoTitle>チャンスとは異なり、Resourcesは常に限られています</infoTitle>
+	<infoArt1Name>そのリソースとは？</infoArt1Name>
+	<infoArt1Text>
+		<p>1 リソース = スマートコントラクト「Resources」の1 トークン。</p>
+		<p>「Resources」の主たる構想はトークンと水、石油、ガス、そして通貨などの典型的な資源との類似点です。</p>
+        <p>リソースの量は常に限定されています。リソースの価値は量が減少するにつれ上昇します。</p>
+	</infoArt1Text>
+	<infoArt2Name>リソースの量はなぜ8,551,000,000なのか？</infoArt2Name>
+	<infoArt2Text>
+		<p>リソースの量は2030年までの地球の総人口予測に対応しています：8,551,000,000人。</p>
+        <p>新しいリソースの発行は予測されていません。</p>
+        <p>8,551,000,000 はリソースの最大量です。</p>
+	</infoArt2Text>
+	<infoLink>リソースを取得</infoLink>
+	<tradeTitle>リソースをご友人やご家族に売買、交換、転送しましょう</tradeTitle>
+	<tradeArt1Name>一般的に利用可能なリソースを購入</tradeArt1Name>
+	<tradeArt1Text>
+		<p>イーサリアムでリソースを購入。1 リソース = 0.001 ETH。</p>
+        <p>リソースを購入するにはスマートコントラクト「Resources」をあなたのウォレットに追加してリソースの数量を選択するだけです。</p>
+	</tradeArt1Text>
+	<tradeArt2Name>最適な金額でリソースを販売しましょう</tradeArt2Name>
+	<tradeArt2Text>
+		<p>リソースの価格はある一定時点でその価値と常に同等です。</p>
+        <p>リソースを購入後すぐに販売することも、時間をおいてからより高い価格で販売することも可能です。</p>
+	</tradeArt2Text>
+	<tradeArt3Name>リソースをご友人やご家族に転送</tradeArt3Name>
+	<tradeArt3Text>
+		<p>一時的にリソースを転送したり、リソースを贈与することもできます。</p>
+	</tradeArt3Text>
+	<tradeArt4Name>リソースを交換</tradeArt4Name>
+	<tradeArt4Text>
+		<p>お手持ちのリソースの一部を他のトークンと交換することができます。</p>
+	</tradeArt4Text>
+	<artArt1Title>この世界ではすべてが可能です。たった1つの質問「いくつのリソースが必要ですか」に答えるだけです</artArt1Title>
+	<artArt1Text>
+		<p>リソースの価値はスマートコントラクト「Resources」に指定されています</p>
+        <p><strong>1 リソース = 1 フィンネイ * 8,551,000,000 / リソースの総量</strong></p>	
+	</artArt1Text>
+	<artArt1List>
+		<li class="li1">あなたのリソースの価値は一般的に利用可能なリソースが活用される時、倍になります。</li>
+	</artArt1List>
+	<artArt2Title>当社は一般的に利用可能なリソースに100%の保護を提供します</artArt2Title>
+	<artArt2List>
+		<li class="li2">一般的に利用可能なリソースの管理はスマートコントラクトにより管理されます</li>
+        <li class="li3">一般的に利用可能なリソースの権利は誰にも移譲できません</li>
+        <li class="li4">スマートコントラクトは誰にも破壊することができません。Resourcesコインデベロッパーはスマートコントラクトを保護し、侵入者が破壊的コードを使用する可能性を排除しました</li>
+	</artArt2List>
+	<artArt3Title>あなたの資産を安全に保護</artArt3Title>
+	<artArt3List>
+		<li class="li5">イーサリアム購入のための資産はスマートコントラクトにより保護されています</li>
+        <li class="li6">初期購入されたリソースの販売後にのみイーサリアムを取得できます</li>
+	</artArt3List>
+	<calcTitle>リソースの価値を倍に</calcTitle>
+	<calcList>
+		<li class="li1 wow fadeInRight" data-wow-delay='0.1s'>当社はリソースを活用し、あなたの利益を増やします</li>
+        <li class="li2 wow fadeInRight" data-wow-delay='0.1s'>リソースの半分を破壊し、あなたのリソースの価値を倍にします。</li>
+        <li class="li3 wow fadeInRight" data-wow-delay='0.1s'>一般的に利用可能なリソースのみ清算します。あなたのリソースは安全に保護されます。</li>
+	</calcList>
+	<calcTitle2>リソースの破壊から生じる利益を計算</calcTitle2>
+	<calcLabelRes>リソースの初期数量を選択</calcLabelRes>
+	<calcTextRes>リソース</calcTextRes>
+	<calcLabelDay>活用後のリソースの販売日を選択</calcLabelDay>
+	<calcTextDay>今日の</calcTextDay>
+	<calcResultText>
+		<div class="name">あなたのリソースの価値は <strong><span>50</span>%</strong> 増加し、</div>
+        <div class="sum">
+        	<div class="res"><span>750.000</span> </div>
+            <div class="eth">または <strong><span>750</span> ETH</strong></div>
+        </div>
+		<div class="name">になります</div>
+	</calcResultText>
+	<calcLink>リソースを取得</calcLink>
+	<grafTitle>一般的に利用可能なリソースの半分を活用することから生じる利益</grafTitle>
+	<grafSubtitle>リソースは32日以内に活用されます。破壊されたリソースの数量は日ごとに倍になります</grafSubtitle>
+	<grafLabel1>32日間に活用されたリソースの量</grafLabel1>
+	<grafLabel2>10,000 リソースの価値</grafLabel2>
+	<grafLink>リソースを取得</grafLink>
+	<workTitle>当社はでき得ることのすべてを実行して、リソースの活用からあなたが利益を獲得できるようにします</workTitle>
+	<workText1>
+		<p>当社はリソースを最低価格で購入します</p>
+	</workText1>
+	<workHideText1>
+		<p>当社はリソースを最低価格で購入します</p>
+	</workHideText1>
+	<workText2>
+		<p>リソースを活用しますリソースの価値は100%増加します</p>
+	</workText2>
+	<workHideText2>
+		<p>リソースを活用しますリソースの価値は100%増加します</p>
+	</workHideText2>
+	<workText3>
+		<p>当社はリソースを暗号証券取引所に上場させ潜在的パートナーの参加、協力を得ます</p>
+	</workText3>
+	<workHideText3>
+		<p>当社はリソースを暗号証券取引所に上場させ潜在的パートナーの参加、協力を得ます</p>
+	</workHideText3>
+	<workHideLink>もっと知る</workHideLink>
+	<mapTitle>ブロックチェーン技術を改善し、世界中のリーダーと協力します</mapTitle>
+	<socTitle>Resourceコインの開発をフォローします</socTitle>
+	<socText1>ソーシャルメディア</socText1>
+	<socText2>メッセンジャー</socText2>
+	<socText3>ブログ</socText3>
+	<socText4>Eメール</socText4>
+	<footerDescription>ゴールを達成するために必要なものはResourcesだけです</footerDescription>
+</lang>

@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lang>
+	<headDescription>Les ressources c'est tout ce dont vous avez besoin pour atteindre vos objectifs</headDescription>
+	<topTitle>Augmentez la valeur de vos jetons (tokens, en anglais) Resources en 2 fois après avoir éliminé 50% de ressources disponibles au public</topTitle>
+	<topText>La Resource est un jeton de contrat smart Resources que vous pouvez acheter en échange <strong>d'Ethereum,</strong> 1 ressource=0,001 ETH. Nous éliminerons la moitié de ressources disponibles au public afin de réduire en 2 fois la valeur de jetons que vous avez achetés précédemment.</topText>
+	<topLink>Apprendre davantage au sujet des ressources</topLink>
+	<topCountdownName>Il reste avant le début d'élimination des ressources  </topCountdownName>
+	<topCountdown><div class="cd_bl days"><div class="num">{dnn}</div><div class="text">jours</div></div><div class="cd_bl hour"><div class="num">{hnn}</div><div class="text">heures</div></div><div class="cd_bl min"><div class="num">{mnn}</div><div class="text">minutes</div></div><div class="cd_bl sec"><div class="num">{snn}</div><div class="text">secondes</div></div></topCountdown>
+	<topTrigger1>À tout moment, vous êtes en mesure d'acheter en Ethereum des ressources, d'offrir, d'échanger et de les transférer pour la conservation.</topTrigger1>
+	<topTrigger2>Nous avons obtenu <strong>8 551 000 000</strong> ressources. La sortie de nouvelles ressources n'est pas envisagée.</topTrigger2>
+	<topTrigger3>Vos jetons seront en sécurité. Le contrat smart ne peut pas être détruit par les concepteurs.</topTrigger3>
+	<newResourceTitle>Nous avons complètement arrêté l'obtention de nouvelles ressources</newResourceTitle>
+	<infoTitle>Les Resources sont toujours limitées contrairement à vos capacités</infoTitle>
+	<infoArt1Name>Qu'est-ce que c'est les ressources?</infoArt1Name>
+	<infoArt1Text>
+		<p>1 ressource = 1 jeton de contrat smart Resources.</p>
+		<p>L'idée fondamentale des Resources est la similitude des jetons aux ressources traditionnelles: eau, pétrole, gaz, devise.</p>
+        <p>La quantité de ressources est toujours limitée. Lorsque la quantité des ressources diminue, leur valeur augmente.</p>
+	</infoArt1Text>
+	<infoArt2Name>Pourquoi existe-t-il 8 551 000 000 ressources?</infoArt2Name>
+	<infoArt2Text>
+		<p>La quantité de ressources correspond au nombre projeté de personnes à la planète d'ici 2030: 8 551 000 000.</p>
+        <p>La sortie de nouvelles ressources n'est pas  prévue.</p>
+        <p>8 551 000 000 — c'est la quantité maximale de ressources.</p>
+	</infoArt2Text>
+	<infoLink>Obtenir des ressources</infoLink>
+	<tradeTitle>Achetez, vendez, échangez ou transférez les ressources à vos amis et vos proches</tradeTitle>
+	<tradeArt1Name>Achetez des ressources disponibles au public</tradeArt1Name>
+	<tradeArt1Text>
+		<p>Achetez des ressources en Ethereum. 1 ressource = 0,001 ETH.</p>
+        <p>Il suffit bien de rajouter le contrat smart Resources en votre porte-monnaie et choisir la quantité de ressources.</p>
+	</tradeArt1Text>
+	<tradeArt2Name>Vendez vos ressources au prix avantageux</tradeArt2Name>
+	<tradeArt2Text>
+		<p>Le prix des ressources est toujours égal à leur valeur au même moment.</p>
+        <p>Vous pourrez vendre des ressources juste après l'achat ou attendre un peu et de vendre au prix plus avantageux pour vous.</p>
+	</tradeArt2Text>
+	<tradeArt3Name>Transférez les ressources à vos proches</tradeArt3Name>
+	<tradeArt3Text>
+		<p>Vous pouvez transférer provisoirement les ressources ou les offrir à vos amis et proches.</p>
+	</tradeArt3Text>
+	<tradeArt4Name>Échangez-vous des ressources</tradeArt4Name>
+	<tradeArt4Text>
+		<p>Échangez n'importe quelle quantité de vos ressources contre les autres jetons.</p>
+	</tradeArt4Text>
+	<artArt1Title>Tout est possible en ce monde, juste une question: quelle est la quantité de ressources dont vous avez besoin?</artArt1Title>
+	<artArt1Text>
+		<p>La valeur des ressources est spécifiée au contrat smart Resources</p>
+        <p><strong>1 ressource= 1 finney * 8 551 000 000 / la quantité totale des ressources</strong></p>	
+	</artArt1Text>
+	<artArt1List>
+		<li class="li1">Lors de l'élimination de la moitié de ressources disponibles au public, la valeur de vos ressources augmente en 2 fois.</li>
+	</artArt1List>
+	<artArt2Title>Nous assurons 100% de protection des ressources disponibles au public</artArt2Title>
+	<artArt2List>
+		<li class="li2">La gestion des ressources disponibles au public est réglementée par le contrat smart</li>
+        <li class="li3">Les droits aux ressources disponibles au public ne sont transférables à personne</li>
+        <li class="li4">Il est impossible de détruire le contrat smart. Les concepteurs de "Resource Coin" ont protégé le contrat smart et ont éliminé la possibilité des malfaiteurs de faire le code destructif.</li>
+	</artArt2List>
+	<artArt3Title>Nous gardons vos moyens sous la protection efficace</artArt3Title>
+	<artArt3List>
+		<li class="li5">Les moyens pour acheter Ethereum se trouvent sous la protection efficace de contrat smart</li>
+        <li class="li6">Vous pourrez obtenir Ethereum seulement après la vente des ressources achetées précédemment</li>
+	</artArt3List>
+	<calcTitle>Augmentez la valeur de vos ressources en 2 fois</calcTitle>
+	<calcList>
+		<li class="li1 wow fadeInRight" data-wow-delay='0.1s'> Nous éliminerons les ressources pour augmenter votre profit</li>
+        <li class="li2 wow fadeInRight" data-wow-delay='0.1s'>Nous éliminerons la moitié des ressources pour augmenter la valeur de vos ressources en 2 fois.</li>
+        <li class="li3 wow fadeInRight" data-wow-delay='0.1s'>Nous liquidons uniquement les ressources disponibles au public. Vos ressources resteront intactes.</li>
+	</calcList>
+	<calcTitle2>Calculez le profit d'élimination des ressources</calcTitle2>
+	<calcLabelRes>Choisissez la quantité initiale des ressources</calcLabelRes>
+	<calcTextRes>ressources</calcTextRes>
+	<calcLabelDay>Choisissez le jour de vente des ressources après le début d'élimination</calcLabelDay>
+	<calcTextDay>jours</calcTextDay>
+	<calcResultText>
+		<div class="name">La valeur de vos ressources augmentera en <strong><span>50</span>%</strong>  et s'élèvera à </div>
+        <div class="sum">
+        	<div class="res"><span>750.000</span> ressources</div>
+            <div class="eth">ou <strong><span>750</span> ETH</strong></div>
+        </div>
+	</calcResultText>
+	<calcLink>Obtenir des ressources</calcLink>
+	<grafTitle>Obtenir le profit de l'élimination de la moitié des ressources disponibles au public</grafTitle>
+	<grafSubtitle>L'élimination des ressources sera faite pendant les 32 jours. La quantité des ressources éliminées double chaque jour.</grafSubtitle>
+	<grafLabel1>La quantité des ressources éliminées pendant 32 jours</grafLabel1>
+	<grafLabel2>La valeur des 10000 ressources</grafLabel2>
+	<grafLink>Obtenir des ressources</grafLink>
+	<workTitle>Nous ferons notre mieux pour que vous gagniez à l'élimination des ressources</workTitle>
+	<workText1>
+		<p>Nous achetons des ressources au prix minimal</p>
+	</workText1>
+	<workHideText1>
+		<p>Nous achetons des ressources au prix minimal</p>
+	</workHideText1>
+	<workText2>
+		<p>Nous éliminerons les ressources. La valeur des ressources augmentera à 100%.</p>
+	</workText2>
+	<workHideText2>
+		<p>Nous éliminerons les ressources. La valeur des ressources augmentera à 100%.</p>
+	</workHideText2>
+	<workText3>
+		<p>Nous faisons des placements de ressources en bourse d'échange de cryptomonnaie et nous invitons nos éventuels partenaires à coopérer</p>
+	</workText3>
+	<workHideText3>
+		<p>Nous faisons des placements de ressources en bourse d'échange de cryptomonnaie et nous invitons nos éventuels partenaires à coopérer</p>
+	</workHideText3>
+	<workHideLink>détaillé</workHideLink>
+	<mapTitle>Nous perfectionnons les techniques de chaînes de blocs en collaboration avec les leaders mondiaux</mapTitle>
+	<socTitle>Suivez l'évolution de Resource Coin</socTitle>
+	<socText1>En réseaux sociaux </socText1>
+	<socText2>En messagers</socText2>
+	<socText3>Aux blogues</socText3>
+	<socText4>Par courrier</socText4>
+	<footerDescription>Les ressources c'est tout ce dont vous avez besoin pour atteindre vos objectifs</footerDescription>
+</lang>
